@@ -1,1 +1,3 @@
 src/*.jar
+src/*.class
+src/META-INF
